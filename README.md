@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Juan Sebastian Granados Jaimes. I study at Universidad Pontificia Bolivariana, I love my university because it gave me an schollarship that allows me to study there. I love coding and reading literature hehehe. FOLLOW ME :D
 <!--
 **SebastianGranadosJ/SebastianGranadosJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
