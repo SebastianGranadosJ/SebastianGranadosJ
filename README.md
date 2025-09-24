@@ -38,6 +38,7 @@ I enjoy combining logic and creativity, whether through building backend solutio
 
 </div>
 
+
 <div align="center">
   <img src="gopher-shaking.gif" width="200"/>
   <img src="junimo.gif" width="200"/>
