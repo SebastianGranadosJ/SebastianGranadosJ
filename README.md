@@ -36,4 +36,8 @@ I enjoy combining logic and creativity—whether through building backend soluti
 
 </div>
 ---
+<div align="center">
+  <img src="https://media.tenor.com/OaMs1dPIwL4AAAAi/gopher-shaking.gif" width="250"/>
+</div>
+
 
