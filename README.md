@@ -50,3 +50,9 @@ I enjoy combining logic and creativity, whether through building backend solutio
   <img src="junimo.gif" width="200"/>
 </div>
 
+<div align="center">
+
+[![My LinkedIn :)](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebastian-granados-jaimes-304691272/)
+
+</div>
+
