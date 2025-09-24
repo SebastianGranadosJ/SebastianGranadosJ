@@ -1,4 +1,4 @@
-# Sebastian Granados 🌿
+# 🌿 Sebastian Granados 🌿
 
     Systems & Computer Engineering Student | Backend & Machine Learning Enthusiast
 
