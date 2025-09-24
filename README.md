@@ -39,7 +39,6 @@ I enjoy combining logic and creativity, whether through building backend solutio
 
 </div>
 
----
 
 
 </div>
