@@ -2,8 +2,8 @@
 
     Systems & Computer Engineering Student | Backend & Machine Learning Enthusiast
 
-I am a proactive and curious Systems and Computer Engineering student, passionate about backend development, literature, and continuous learning.  
-Currently, I am focused on becoming a Machine Learning Engineer, while exploring applications in the **energy sector and agriculture sectors**.  
+I am a proactive and curious **Systems and Computer Engineering student**, passionate about backend development, literature, and continuous learning.  
+Currently, I am focused on becoming a **Machine Learning Engineer**, while exploring applications in the energy sector and agriculture sectors.  
 I enjoy combining logic and creativity—whether through building backend solutions, training ML models, or immersing myself in books.
 
 ---
@@ -35,14 +35,5 @@ I enjoy combining logic and creativity—whether through building backend soluti
 ![BERT](https://img.shields.io/badge/BERT-NLP-brightgreen?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
-
-
-
-
-### 📚 Currently Learning
-- Machine Learning 🤖  
-- German 🇩🇪
-- AWS
-
 ---
 
