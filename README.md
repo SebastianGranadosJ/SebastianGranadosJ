@@ -1,6 +1,6 @@
 # Sebastian Granados 🌿
 
-    **`Systems & Computer Engineering Student | Backend & Machine Learning Enthusiast`**
+    Systems & Computer Engineering Student | Backend & Machine Learning Enthusiast
 
 I am a proactive and curious Systems and Computer Engineering student, passionate about backend development, literature, and continuous learning.  
 Currently, I am focused on becoming a Machine Learning Engineer, while exploring applications in the **energy sector and agriculture sectors**.  
